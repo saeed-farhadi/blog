@@ -1,1 +1,1 @@
-Sitemap: https://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/sitemap.xml
+Sitemap: https://saeed-farhadi.github.io/blog/sitemap.xml
