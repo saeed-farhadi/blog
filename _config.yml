@@ -1,29 +1,28 @@
 # See https://jekyllrb.com/docs/configuration/default/
 title: "روزنوشت‌های من"
 motto: "می‌نویسم پس هستم"
-author: Mehdi Sadeghi
-email: sadeghi@mehdix.org
+author: Saeed Farhadi
+email: farhadi.iust@gmail.com
 
 # the base hostname & protocol for your site without trailing slash
-url: https://mystifying-benz-938b25.netlify.com
+url: saeed-farhadi.github.io
 # the subpath of your site, e.g. /blog
-baseurl: 
+baseurl: /blog
 
-keywords: کامپیوتر برنامه‌نویسی وب
+keywords: باتری لیتیوم MOF ذخیره انرژی
 copyright: "Commons Attribution 4.0 International"
 
 # A one liner that describes your blog
 description: > # this means to ignore newlines
-  سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام.
+  سکوی انتشار مطالبی در مورد دانش فنی سنتز باتری‌های لیتیوم یون.
 
 # Tell more about your blog here
 long_description: >
-  بچه که بودیم همیشه برای بازی خونه می‌ساختیم. حالا هم نمونه‌اش رو در وب ساختم.
-  اینجا سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام است،
-  بویژه راه‌حل‌های مهندسی که باعث رشد و پیشرفتم شده است و می‌تواند مورد استفاده دیگران هم قرار بگیرد.
+  دانشمند حوزه باتری لیتیومی فارغ التحصیل دانشگاه علم و صنعت ایران
+  که در شرکت پارتیان باتری نوین مشغول تحقیق و توسعه باتری‌های لیتیومی هستم.
 
 # The tiny icon of the website
-favicon: assets/img/favicon.png
+favicon: assets/img/me.png
 permalink: :title.html
 timezone: Europe/Berlin
 
@@ -64,14 +63,14 @@ comments:
 lang: fa_IR
 
 # Footer stuff
-twitter:
-  username: mehdisadeghii
+# twitter:
+#   username: saeed-farhadi
 github:
-  username: mehdisadeghi
-  repository: jekyll-theme-mehdix-rtl
+  username: saeed farhadi
+  repository: blog
 
 # Footer logo will disappear if not set.
-#logo: assets/img/me.png
+logo: assets/img/me.png
 
 exclude:
 - scripts
